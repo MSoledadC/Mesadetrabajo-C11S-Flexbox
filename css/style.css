@@ -7,7 +7,7 @@
 body {
     font-family: Roboto;
     background-color: #f4f4f4;
-    height: 100vh;
+
 }
 
 header,
@@ -73,7 +73,7 @@ ul li {
     max-width: 986px;
     height: 350px;
     width: 100%;
-    margin: 35px auto;
+    margin: 30px auto;
 }
 
 .fondo {
