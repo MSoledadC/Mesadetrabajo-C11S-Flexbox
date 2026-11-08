@@ -25,6 +25,10 @@ ul li {
     list-style: none;
 }
 
+main {
+    margin: 20px 0px 20px 0px;
+}
+
 .logo {
     display: flex;
     align-items: center;
@@ -67,6 +71,8 @@ ul li {
     gap: 20px;
     flex-wrap: wrap;
 }
+
+
 
 .contenedor-info {
     display: flex;
